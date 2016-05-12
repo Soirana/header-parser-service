@@ -1,0 +1,19 @@
+{
+  "name": "header-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "4.4.3"
+  },
+  "keywords": [],
+  "author": "soirana",
+  "license": "ISC",
+  "description": "header displayer",
+  "dependencies": {
+    "express": "4.13.4",
+    "useragent": "2.1.9"
+  }
+}
